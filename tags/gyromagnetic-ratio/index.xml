@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gyromagnetic ratio on Chocolatetoast</title>
+    <link>https://chocolatetoast-chiu.github.io/tags/gyromagnetic-ratio/</link>
+    <description>Recent content in gyromagnetic ratio on Chocolatetoast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 12 Oct 2021 17:07:47 -0500</lastBuildDate><atom:link href="https://chocolatetoast-chiu.github.io/tags/gyromagnetic-ratio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MRI learning note_spin. MRI課間學習記錄_旋轉</title>
+      <link>https://chocolatetoast-chiu.github.io/blog/mri_concept/</link>
+      <pubDate>Tue, 12 Oct 2021 17:07:47 -0500</pubDate>
+      
+      <guid>https://chocolatetoast-chiu.github.io/blog/mri_concept/</guid>
+      <description>Introduction When we talk about the nuclear magnetic resonance, it&amp;rsquo;s better to getting into the basic knowledge of how we can investigate the phenomenon of it.</description>
+    </item>
+    
+  </channel>
+</rss>
